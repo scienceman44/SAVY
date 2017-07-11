@@ -1,3 +1,5 @@
+
+#hi
 # Name:aaron
 # Date:
 
@@ -6,6 +8,8 @@
 # Then, it prints a sentence that says when the user will turn 100.
 
 # If you complete extensions, describe your extensions here!
+print "Hi"
+print "if you please"
 y = raw_input('enter your name:')
 b = raw_input('enter your age:')
 x = raw_input('enter the year:')
